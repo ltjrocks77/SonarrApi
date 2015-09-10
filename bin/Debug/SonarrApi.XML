@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SonarrApi</name>
+    </assembly>
+    <members>
+        <member name="M:SonarrApi.Main.getDiskspace">
+            <summary>
+            Gets the amount of Diskspace for each drive
+            </summary>
+            <returns>Diskspace Class</returns>
+        </member>
+        <member name="M:SonarrApi.Main.getCalendar(System.String,System.String)">
+            <summary>
+            Gets Calendar Entries from a start date to an end date
+            </summary>
+            <param name="startDate">YYYY-MM-DD</param>
+            <param name="endDate">YYYY-MM-DD</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

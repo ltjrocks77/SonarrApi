@@ -1,0 +1,10 @@
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\SonarrApi.dll
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\SonarrApi.pdb
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\Newtonsoft.Json.dll
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\RestSharp.dll
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\Newtonsoft.Json.xml
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\RestSharp.xml
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\obj\Debug\SonarrApi.dll
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\obj\Debug\SonarrApi.pdb
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\obj\Debug\SonarrApi.csprojResolveAssemblyReference.cache
+I:\SourceCode\Dlls\SonarrApi\SonarrApi\bin\Debug\SonarrApi.XML
